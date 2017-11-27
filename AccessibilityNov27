@@ -1,0 +1,41 @@
+Accessibility and Design - November 27, 2017
+
+- A11Y, shorter for twitter
+
+How do we define? 
+  - general: ease of access, assistive technology, sensory (visual, auditory, speech), motor
+  - digital: raw formats (interoperability), availabilty across platforms and devices, usability 
+
+Biases and Stereotypes
+  - ableism
+  - disabled does not equal broken
+  - defined by the norm?
+  - assistive vs. adaptive > biases with assistive technology
+--> are we going for a consistency of experience?
+
+Where it impacts the human experience: 
+- public spaces:
+  - accessibility = retrofit, biased toward design it fits on top off
+  - government online is a kind of public space
+  - online shopping
+- citizen engagement
+  - democracy via voting
+  - participation in public activities, protests
+  - employment, poor access can disengage from different activities
+- social participation
+  - slang, context, language etc.
+- Plain language:
+  - academic writing is not always accessible
+  - construction of identities and credibility
+  - assimilation and accommodation (Jean Piaget)
+
+"Make the right thing to do, the easiest thing to do." 
+- UX saying
+
+Accessibility and Compliance Online
+- Lenses to align: laws, rules and regulations, requirements, policies and standards, governance, transparence
+- WCAG has 4 principles, perceivable, operable (no interaction that a user can't perform,) understandable, robust (content must be robust enough that it can be used across different platforms)
+CASE STUDY
+- Perceivable: improper use of colour; media not captioned; sense-bias on content
+- Operable: no coherent structure to content; special scripting and/or plug-ins required to use/interact with content; pointing device required for interaction with content
+- Understandable: non-plain language; intent of interactions is unclear; attention thieves 
