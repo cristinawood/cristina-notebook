@@ -5,3 +5,18 @@ Omeka-s = multi-sites
 
 Wikistream: wikistream.wmflabs.org
 Edits coming from CDN public service - bulk from one office. Who was this? 
+
+Palladio:
+- once you've got data properly inputted, under data tab could load up .csv with point data
+- can have sized data, use that to scale the point
+- underneath tiles, you can put hit "custom tiles"
+- Master Plan: at Dow's Lake was a swamp filled with squatters, Southam bought it, gave it to Carleton College. Have university situated there, plan to have an ornamental pond
+- st. john's map from github.com/xtina-r/daea/blob/gh-pages/index.html
+--> this is a ready-baked platform! 
+fundamentally powered by Leaflet (as is Palladio!)
+Could fork this! 
+
+Over the holidays:
+- try to start a draft outline, key points, sources, starting points
+- Hypothesis, annotate Pressbooks
+- outline as bare minimum for everyone
