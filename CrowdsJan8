@@ -1,0 +1,60 @@
+**Crowds**
+
+- virtual space allows actors, rather than meet in a physical time and place, meet in time. Erving Goffman
+
+Presentation of the Self
+- maintain a degree of anonymity
+- potential to maintain a degree of anonymity when online depending on the platforms and tools we use
+
+Community as an Overused Concept
+- Winet and Draxler point to miranda Joseph's critique of the concept of community as overused and essentially meaningless
+- identification, self-identification
+
+Defining community and crowds:
+- community: personal, intentional engagement, common interest, self-identified, often have a leader, sometimes an informal, shared values, can be a demographic label, not always self-identified - can be imposed. 
+- crowds: mob mentality, less personal, more negative, involuntary, temporary, self-serving, individuals in a group
+- alternative concepts: network
+
+Traditional Communities vs. Virtual Communities:
+Physical: 
+Limitations: geographic location, identity (persona less possible)
+Affordances: face-to-face, emotional expression
+Virtual:
+Limitations: non-humans, quality of engagement is dependent on the tech that facilitates it, accessibility, trolling, digital literacy, economic limitations 
+Affordances: not limited by geography, accessibility, opposing norms
+--> Free-speech absolutism informs the technologies, platforms (in their DNA) - Tressie Cottom good to look at there
+
+Some Crowdsourcing Projects:
+- Amara: allows anyone anywhere to offer their skills as translators
+- OpenStreetMap - free editable map of the world - has a nice human touch
+- Waze - Free GPS app that incorporates real-time updates from users
+- Encyclopedia of Life - a collaborative encyclopedia intended to document
+
+Wikipedia:
+- greater emphasis on people, places and dates
+- rules and violations: violations of the rules are not as prevalent as one might expect. Goffman's assertion that people generally sacrifice some aspects of their freedoms in the name of order. The people who violate the interaction order are still dependent on the order itself. So long as the violations are not systemic, the general order is maintained by the collective. 
+
+Jack Johnson (boxer) comparing Britannica and Wikipedia
+- Social 'Facts' and Durkheim
+
+Misperception and Rumour Communities
+What about digital communities that allows for rumour and misperception to spread?
+- Access to publishing tools - easy exchange of information. 
+- Serve as echo chambers - attracts those with similar idiologies. (see Chris Schaeffer and Mike Caulfield)
+- False sense of authority over topic - lack of expertise. 
+- Social networking and social media allows for individuals to seek out users with similar interests. 
+What needs to be done?
+- Public education (critical literacy)
+- Academic engagement with public. 
+
+(NETWORKS BY SHAWN)
+- Google identifying best-connected individuals as the pieces of value
+- betweenness centrality
+- Identify the shortest paths between pairs, then count the number of shortest paths through node, node with link between the two
+On facebook:
+- strong interlinkages 
+- google will close the triangle, how Facebook starts suggesting other people whom you might know.
+- strength of weak connections
+- taking math of graph theory and weaponizing it for advertising! 
+- tools come from graph theory
+- triadic closure, small-world identification, degree, stats to calculate etc. 
