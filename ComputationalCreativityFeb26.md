@@ -48,5 +48,7 @@
 ### Unity and Twine in a Game
 - Prairie System
 - add trees, water, etc.
-- 
+
+### Stuff
+- Cheap Markovs Traced Quick
 
