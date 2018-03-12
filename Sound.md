@@ -34,6 +34,5 @@
   - audio architecture! 
   - stimulus shifts to keep employees calm and anxiety low
   - 
-    
 
   
