@@ -25,6 +25,15 @@
   - constructed environments (dissociates self from environment)
   - Murray Schafer: Schizophonia
     - sounds torn from their natural sockets and given an amplified and independent existence. Vocal sound, for instance, is no longer tied to a hole in the head but is free to issue from anywhere in the landscape."
+- Sound - Steph Careso 
+  - technological determinism - tech influences social lives, social function! 
+- Muzak: Critical Listening
+  - music used to influence social patterns
+  - music is used to influence the subconscious mind into relaxation or consumption
+  - *passive listening* vs. *active listening*
+  - audio architecture! 
+  - stimulus shifts to keep employees calm and anxiety low
+  - 
     
 
   
