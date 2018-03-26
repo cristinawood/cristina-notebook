@@ -39,7 +39,29 @@ What does it mean to publish? Questions of authorship?
 ### The Age of the Post-Author
 - opus of online annotations as a kind of publishing! 
 - more active-reading! "displacement of a hermeneutical model of reading by one premised on absorption, the transformation of copyright into contract: all point toward the subsuming fear of a loss of community..." - Kathleen Fitzpatrick, *Planned Obsolescence* 
-- 
+
+### Amazon and Kindle: A Match Made in Heaven?...Or Hell?
+- can publish in 5 minutes
+
+### Fanfiction and others
+- opened to a community
+- work isn't yet done! 
+- Instagram Poets too - form of publishing
+
+### Moving Away from Traditional Methods
+- interactive fiction like: http://philome.la/YoDessa/citizen-of-riverdale/play
+- publish and perish Epoisen game
+- Twine! 
+- what's unethical in publishing?
+
+### Let's Explore Riverdale
+- different means of exploring a work of fiction
+
+### Conclusions
+- composing and creating from within your browser - original sin of the web, Mark Anderson of Netscape stripped it away! 
+  - pattern set from there! 
+  - collapses to a particular way! 
+  - there is nothing stopping us but our own inertia! 
 
 ### Added relevant articles:
 - https://www.worldcat.org/title/track-changes-a-literary-history-of-word-processing/oclc/926061469
@@ -47,5 +69,4 @@ What does it mean to publish? Questions of authorship?
 - https://epoiesen.library.carleton.ca/2017/05/04/publish-and-perish/
 - https://creativecommons.org/choose/
 - http://sherpa.ac.uk/romeo/index.php
-
-
+- http://philome.la to put Twine into public
