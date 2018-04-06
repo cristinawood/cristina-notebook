@@ -99,3 +99,7 @@ Python script to prepopulate some things!
 ### TEI Guidelines
 - http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html
 - DHSite.org to follow up on those events!
+
+### Transferring documents to use TEI
+- scan them, OCR (optical character recognition)
+- then cleaning that up, adding the TEI
