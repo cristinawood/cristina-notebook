@@ -27,4 +27,75 @@ Using TEI XML (language) to tell computers what we know about a text.
 - etc. 
 
 ### XML Anatomy
-- <location>uOttawa</location>
+- ```<location>uOttawa</location>```
+- ```<location type="university">uOttawa</location>```
+
+### Elements, Nesting, One Root
+- XML docs all have elements, attributes, and values. 
+- All XML-based languages' elements ***nest*** and **never overlap**
+- have a single ***root element*** and can be expressed as a hierarchy, or tree
+
+### What is the Text Encoding Initiative?
+- predates HTML! 
+- hardware and software independent
+- computationally tractable
+- formal 
+- reusable - for different applications! 
+- useful standard in Digital Humanities
+
+### TEI-XML
+- XML gives us the syntax to describe things to a computer - opening tags and closing tags
+- TEI gives us the language, the vocabulary and grammar
+
+### When is TEI Knowledge Useful? 
+#### Single encoding, multiple outputs. 
+- write scripts to produce different outputs! 
+- XLST script! 
+- encode once, pull things from document that output formats need.
+#### Close Reading and Patterns at Scale
+- you can see different patterns, as well as looking really closely
+- Julia Flanders & Matt Jockers
+#### Aggregation, Peer Review, Grants
+- Evaluating others' DH projects
+- grants (agencies like to see that projects will use disciplinary standards)
+
+### How the TEI represents texts
+``` 
+<?xml version="1.0" encoding="UTF-8"?>
+<TEI>
+ <teiHeader> <!- this is where the information about the encoded document goes--> </teiHeader>
+ <text>
+ <body>
+ inlcude that 
+ </body
+ </text>
+</TEI>
+```
+Can demarcate ```<foreign xml:lang="fr">sang froid</foreign>```
+Walt Whitman archive can give you TEI files, stripping some details. 
+Python script to prepopulate some things! 
+#### Poetry terms
+- lg for line groups, quatrain etc. 
+#### Theatre terms
+- stage entrances and exits etc. 
+#### Letters
+```
+<opener>
+ <dateline>
+  <date when=1846
+ </dateline>
+</opener>
+```
+### Beyond Drawing Boxes
+- segmentation
+- linking
+- referencing
+
+### In practice
+- knightlab can grab info and populate with it, on a map
+- gephi to visualize networks/connections
+- oXygen - to check your documents against the ones online
+
+### TEI Guidelines
+- http://www.tei-c.org/release/doc/tei-p5-doc/en/html/index.html
+- DHSite.org to follow up on those events!
